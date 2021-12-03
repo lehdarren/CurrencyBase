@@ -9,5 +9,26 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
 }
+
+.firstDropdown {
+  margin: 5px;
+}
+
+.secondDropdown {
+  margin: 5px;
+}
+
+.dropdown {
+  margin-left: 10px;
+  height: 35px;
+  width: 70px;
+  font-size: 100%;
+}
+
+.input {
+  height: 30px;
+  width: 100px;
+}
+
